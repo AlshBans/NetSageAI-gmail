@@ -1,4 +1,4 @@
-# NetSageAI-MailGuard (Demo)
+# NetSageAI-MailGuard 
 
 Real-time Gmail metadata monitoring (IMAP header-only). This  shows:
 - IMAP polling (header-only)
