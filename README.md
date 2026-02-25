@@ -1,6 +1,6 @@
 # NetSageAI-MailGuard (Demo)
 
-Real-time Gmail metadata monitoring demo (IMAP header-only). This demo shows:
+Real-time Gmail metadata monitoring (IMAP header-only). This  shows:
 - IMAP polling (header-only)
 - Rule-based detection for burst/reconnect/bulk recipients/attachments
 - FastAPI backend with WebSocket events (/ws/events)
